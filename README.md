@@ -4,7 +4,7 @@ This project is created to provide a seamless, personalized, and efficient shopp
 
 Features:
 User Authentication: Secure login and registration for users to ensure data privacy and a smooth shopping experience.
-Product Management: Easy management of products, including adding, updating, and removing items from the inventory.
+Product Management: Easy management of products, including adding, updating, and removing items from the inventory. it is easy for managing inventory
 AI-Powered Recommendations: Personalized product recommendations based on user preferences and shopping history.
 Order Management: A streamlined process for placing and managing orders, including order history tracking.
 Payment Integration: Secure and user-friendly payment processing with multiple payment options.
